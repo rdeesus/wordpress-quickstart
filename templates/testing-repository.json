@@ -21,7 +21,7 @@
         {
             "name": "QUICKSTART_REPOSITORY_URL",
             "description": "The URL of the quickstart Git repository.",
-            "value": "https://github.com/rdeesus/wordpress-quickstart",
+            "value": "https://github.com/rdeesu/wordpress-quickstart",
             "required": true
         },
         {
